@@ -1,4 +1,4 @@
-**Snowflake Usage and Metadata Dashboard:**
+#Snowflake Usage and Metadata Dashboard:#
 
 This Qlik Sense app combines data from multiple Snowflake tables to
 create an understanding of three key areas.
@@ -49,10 +49,9 @@ columns with query performance data, login information, storage costs,
 and usage costs. We also perform dynamic IP lookups to get geospatial
 information about user IP locations.
 
-Data Load Script:
+**Data Load Script:**
 
-![](./media/image3.jpeg){width="4.916666666666667in"
-height="1.9130872703412074in"}
+![](./media/image3.jpeg)
 
 The data is extracted using Qlik load script. The load scripts are how
 Qlik requests the data from the source tables, sql functions, and
