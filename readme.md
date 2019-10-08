@@ -73,16 +73,16 @@ This section of the script takes the unique IP's from the Login History
 in-memory table and passes them to the GeoAnalytics engine and returns
 City, State, Country, and Lat/Long values for each IP.
 
-**About the Dashboard**
+## About the Dashboard
 
-Table of Contents:
+**Table of Contents:**
 
 This is the basic introduction to the layout and structure of the app.
 
 > ![A screenshot of a cell phone Description automatically
 > generated](./media/image6.jpeg)
 
-Usage Cost:
+**Usage Cost:**
 
 This dashboard shows costs and usage associated with Snowflake usage.
 Note how Qlik's engine has mapped estimated costs down to a user level.
