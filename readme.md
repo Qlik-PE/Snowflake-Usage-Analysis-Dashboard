@@ -26,7 +26,7 @@ The other elements used in the app are Vizlib dashboards. Learn more at
 <http://vizlib.com>.
 
 ![](./media/image1.png)
-***About the Qlik and the App:***
+***About Qlik and the App:***
 
 Qlik is the only major analytics vendor with an entire data movement and
 management suite powering the data from raw to ready across an
