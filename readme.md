@@ -132,7 +132,7 @@ details.
 **Storytelling:**
 
 Using the story mode provides an example of how data can be used to
-answer questions and present them in a instructional method.
+answer questions and present them in a instructional method. Story mode can be accessed using the **Story** tab on the top of the screen.
 
 > ![A screenshot of a cell phone Description automatically
 > generated](./media/image11.jpeg)
