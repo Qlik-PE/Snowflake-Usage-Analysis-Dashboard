@@ -26,7 +26,7 @@ The other elements used in the app are Vizlib dashboards. Learn more at
 <http://vizlib.com>.
 
 ![](./media/image1.png)
-[About the Qlik and the App]{.underline}:
+***About the Qlik and the App:***
 
 Qlik is the only major analytics vendor with an entire data movement and
 management suite powering the data from raw to ready across an
@@ -37,8 +37,8 @@ space as it is three tools in a single product encompassing an ELT
 engine, an in-memory columnar database, and world class data
 visualization and analytics.
 
-![](./media/image2.jpeg){width="2.4097222222222223in"
-height="2.3953062117235344in"}[Data Model]{.underline}:
+![](./media/image2.jpeg)
+***Data Model:***
 
 The data is collected from a series of methods and combined together in
 Qlik's in-memory associative engine. Qlik is unique in that unlike other
@@ -65,11 +65,9 @@ there is a built-in connector. Older versions of Qlik Sense will require
 a download of the ODBC driver from the Snowflake website.
 
 ![A screenshot of a cell phone Description automatically
-generated](./media/image4.jpeg){width="3.5625in"
-height="2.0198917322834644in"}![A screenshot of a cell phone Description
+generated](./media/image4.jpeg)![A screenshot of a cell phone Description
 automatically
-generated](./media/image5.jpeg){width="2.7222222222222223in"
-height="1.9573239282589676in"}
+generated](./media/image5.jpeg)
 
 The other element in the load script in the Qlik GeoAnalytics IP lookup.
 This section of the script takes the unique IP's from the Login History
@@ -83,8 +81,7 @@ Table of Contents:
 This is the basic introduction to the layout and structure of the app.
 
 > ![A screenshot of a cell phone Description automatically
-> generated](./media/image6.jpeg){width="4.569444444444445in"
-> height="2.0538090551181103in"}
+> generated](./media/image6.jpeg)
 
 Usage Cost:
 
@@ -96,19 +93,17 @@ comparison. Users can alter their cost per credit and storage costs
 based on their unique pricing models that may be applicable.
 
 > ![A screenshot of a social media post Description automatically
-> generated](./media/image7.jpeg){width="4.583333333333333in"
-> height="2.155538057742782in"}
+> generated](./media/image7.jpeg)
 
-Enterprise Credit Usage:
+**Enterprise Credit Usage:**
 
 This dashboard is based on consumption of pre-purchased credits vs
 usage. The Vizlib chart projects when purchased credits will run out.
 
 > ![A screenshot of a cell phone Description automatically
-> generated](./media/image8.jpeg){width="4.583333333333333in"
-> height="2.0639687226596677in"}
+> generated](./media/image8.jpeg)
 
-Auditing / Security:
+**Auditing / Security:**
 
 This dashboard uses the GeoAnalytics IPlookup feature to display where
 users are logging in from around the globe. Also allows for
@@ -116,24 +111,21 @@ investigation how users are accessing the system, version of drivers
 used, and when/how often users are accessing the system.
 
 > ![A close up of a map Description automatically
-> generated](./media/image9.jpeg){width="4.583333333333333in"
-> height="2.0585826771653544in"}
+> generated](./media/image9.jpeg)
 
-Performance / Optimization:
+**Performance / Optimization:**
 
 This dashboard can be used to understand query performance, usage
 hotspots, query volumes vs runtime, errors, and dive deep into query
 details.
 
 > ![A screenshot of a computer Description automatically
-> generated](./media/image10.jpeg){width="4.597222222222222in"
-> height="2.0751356080489938in"}
+> generated](./media/image10.jpeg)
 
-Storytelling:
+**Storytelling:**
 
 Using the story mode provides an example of how data can be used to
 answer questions and present them in a instructional method.
 
 > ![A screenshot of a cell phone Description automatically
-> generated](./media/image11.jpeg){width="4.736111111111111in"
-> height="2.674688320209974in"}
+> generated](./media/image11.jpeg)
