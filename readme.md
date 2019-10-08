@@ -1,4 +1,4 @@
-#Snowflake Usage and Metadata Dashboard:#
+# Snowflake Usage and Metadata Dashboard:
 
 This Qlik Sense app combines data from multiple Snowflake tables to
 create an understanding of three key areas.
