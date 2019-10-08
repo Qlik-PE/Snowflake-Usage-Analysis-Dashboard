@@ -38,7 +38,8 @@ engine, an in-memory columnar database, and world class data
 visualization and analytics.
 
 ![](./media/image2.jpeg)
-***Data Model:***
+
+**Data Model:**
 
 The data is collected from a series of methods and combined together in
 Qlik's in-memory associative engine. Qlik is unique in that unlike other
