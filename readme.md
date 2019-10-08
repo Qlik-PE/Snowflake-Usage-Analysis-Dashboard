@@ -34,7 +34,7 @@ enterprise. This application specifically uses the Qlik Sense component
 to visualize the usage and cost data about a Snowflake instance sourced
 from internal tracking tables. Qlik Sense is unique in the analytics
 space as it is three tools in a single product encompassing an ELT
-engine, an in-memory columnar database, and world class data
+engine, a high speed memory cache, and world class data
 visualization and analytics.
 
 ![](./media/image2.jpeg)
