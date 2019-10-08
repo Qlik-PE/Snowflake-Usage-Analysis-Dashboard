@@ -13,7 +13,7 @@ and metrics associated with Security and Connectivity.
 issues - how does this relate to cost and usage?
 
 Instructions and descriptions are below. The app can be downloaded
-**[here]{.underline}**:
+from the root GitHub directory of this project
 
 Upload to your Qlik Sense server, Qlik cloud (when the Snowflake driver
 is enabled), or Qlik Sense Desktop. Follow the instructions in the app
@@ -25,8 +25,8 @@ Qlik Partner Engineering account can be accessed
 The other elements used in the app are Vizlib dashboards. Learn more at
 <http://vizlib.com>.
 
-![](./media/image1.png){width="4.289583333333334in"
-height="2.5833333333333335in"}[About the Qlik and the App]{.underline}:
+![](./media/image1.png)
+[About the Qlik and the App]{.underline}:
 
 Qlik is the only major analytics vendor with an entire data movement and
 management suite powering the data from raw to ready across an
