@@ -18,11 +18,13 @@ from the root GitHub directory of this project
 Upload to your Qlik Sense server, Qlik cloud (when the Snowflake driver
 is enabled), or Qlik Sense Desktop. Follow the instructions in the app
 to add your Snowflake credentials and update the GeoAnalytics connection
-or modify to use a public IP lookup service. A demo version using the
+or modify to use a public IP lookup service. 
+
+A demo version using the
 Qlik Partner Engineering account can be accessed
 [**here**](https://pe.qlik.com/sense/app/c9d2fe49-1afa-4982-a3b8-95d3ca7e63b5):
 
-The other elements used in the app are Vizlib dashboards. Learn more at
+The other elements used in the app are Vizlib dashboards. Download and learn more at
 <http://vizlib.com>.
 
 ![](./media/image1.png)
@@ -69,7 +71,12 @@ generated](./media/image4.jpeg)![A screenshot of a cell phone Description
 automatically
 generated](./media/image5.jpeg)
 
-The other element in the load script in the Qlik GeoAnalytics IP lookup.
+The other element in the load script in the Qlik GeoAnalytics IP lookup.    
+Please note this is a licensed add-on to Qlik Sense and will not work without a license.  
+You can contact your Qlik representative for an evaluation license.    
+
+Alternatively, you could use the external IP via api REST lookup solution as described in the load script…
+
 This section of the script takes the unique IP's from the Login History
 in-memory table and passes them to the GeoAnalytics engine and returns
 City, State, Country, and Lat/Long values for each IP.
@@ -78,7 +85,7 @@ City, State, Country, and Lat/Long values for each IP.
 
 **Table of Contents:**
 
-This is the basic introduction to the layout and structure of the app.
+This is the basic introduction to the layout and structure of the app.   You can use the buttons under Table of Contents to navigate the app.
 
 > ![A screenshot of a cell phone Description automatically
 > generated](./media/image6.jpeg)
