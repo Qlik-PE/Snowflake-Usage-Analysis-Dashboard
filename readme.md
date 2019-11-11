@@ -24,13 +24,10 @@ A demo version using the
 Qlik Partner Engineering account can be accessed
 [**here**](https://pe.qlik.com/sense/app/c9d2fe49-1afa-4982-a3b8-95d3ca7e63b5):
 
-The other elements used in the app are Vizlib dashboards. Download and learn more at
-<http://vizlib.com>.
-
 ![](./media/image1.png)
 ***About Qlik and the App:***
 
-Qlik is the only major analytics vendor with an entire data movement and
+Qlik is the only major analytics vendor with an entire data integration and
 management suite powering the data from raw to ready across an
 enterprise. This application specifically uses the Qlik Sense component
 to visualize the usage and cost data about a Snowflake instance sourced
