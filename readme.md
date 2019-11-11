@@ -80,6 +80,10 @@ City, State, Country, and Lat/Long values for each IP.
 
 ## About the Dashboard
 
+There are two versions of the dashboard, as simplified version to get started quickly, and a more complex version that supports Qlik Server Side Extensions. For more information and how to use Server Side Extensions for Qlik Sense, visit here:
+
+https://github.com/nabeel-oz/qlik-py-tools
+
 **Table of Contents:**
 
 This is the basic introduction to the layout and structure of the app.   You can use the buttons under Table of Contents to navigate the app.
