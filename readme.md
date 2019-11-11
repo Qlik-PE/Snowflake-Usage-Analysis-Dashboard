@@ -13,7 +13,9 @@ and metrics associated with Security and Connectivity.
 issues - how does this relate to cost and usage?
 
 Instructions and descriptions are below. The app can be downloaded
-from the root GitHub directory of this project
+from the root GitHub directory of this project.  There are two versions of the dashboard, as simplified version to get started quickly, and a more complex version that supports Qlik Server Side Extensions. For more information and how to use Server Side Extensions for Qlik Sense, visit here:
+
+https://github.com/nabeel-oz/qlik-py-tools
 
 Upload to your Qlik Sense server, Qlik cloud (when the Snowflake driver
 is enabled), or Qlik Sense Desktop. Follow the instructions in the app
@@ -79,10 +81,6 @@ in-memory table and passes them to the GeoAnalytics engine and returns
 City, State, Country, and Lat/Long values for each IP.
 
 ## About the Dashboard
-
-There are two versions of the dashboard, as simplified version to get started quickly, and a more complex version that supports Qlik Server Side Extensions. For more information and how to use Server Side Extensions for Qlik Sense, visit here:
-
-https://github.com/nabeel-oz/qlik-py-tools
 
 **Table of Contents:**
 
