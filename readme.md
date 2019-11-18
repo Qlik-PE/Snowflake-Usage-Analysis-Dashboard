@@ -12,7 +12,7 @@ and metrics associated with Security and Connectivity.
 \- Performance & Optimization: Who is running queries, where are their
 issues - how does this relate to cost and usage?
 
-Instructions and descriptions are below. 
+Instructions and descriptions are below. Here is a video showing the dashboard in action: https://www.youtube.com/watch?v=4cNBdX9hufs
 
 ### If you are new to Qlik: Click here to get started -- https://help.qlik.com/en-US/onboarding
 
