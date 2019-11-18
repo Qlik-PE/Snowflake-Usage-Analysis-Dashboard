@@ -12,7 +12,11 @@ and metrics associated with Security and Connectivity.
 \- Performance & Optimization: Who is running queries, where are their
 issues - how does this relate to cost and usage?
 
-Instructions and descriptions are below. The app can be downloaded
+Instructions and descriptions are below. 
+
+###If you are new to Qlik: Click here to get started!
+
+The app can be downloaded
 from the root GitHub directory of this project.  There are two versions of the dashboard, as simplified version to get started quickly, and a more complex version that supports Qlik Server Side Extensions. For more information and how to use Server Side Extensions for Qlik Sense, visit here:
 
 https://github.com/nabeel-oz/qlik-py-tools
