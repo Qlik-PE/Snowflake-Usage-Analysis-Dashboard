@@ -30,7 +30,7 @@ A demo version using the
 Qlik Partner Engineering account can be accessed
 [**here**](https://pe.qlik.com/sense/app/c9d2fe49-1afa-4982-a3b8-95d3ca7e63b5):
 
-![](./media/image1.png)
+![](./media/qlik-snowflake-architecture.png)
 ***About Qlik and the App:***
 
 Qlik is the only major analytics vendor with an entire data integration and
