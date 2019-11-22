@@ -28,7 +28,7 @@ or modify to use a public IP lookup service.
 
 A demo version using the
 Qlik Partner Engineering account can be accessed
-[**here**](https://pe.qlik.com/sense/app/c9d2fe49-1afa-4982-a3b8-95d3ca7e63b5):
+[**here**](https://pe.qlik.com/sense/app/100104c2-3917-4f44-b1b3-677c92846d60/overview):
 
 ![](./media/qlik-snowflake-architecture.png)
 ***About Qlik and the App:***
