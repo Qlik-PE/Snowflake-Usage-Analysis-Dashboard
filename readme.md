@@ -17,21 +17,21 @@ Instructions and descriptions are below. Here is a video showing the dashboard i
 ### If you are new to Qlik: Click here to get started -- https://help.qlik.com/en-US/onboarding
 
 The app can be downloaded
-from the root GitHub directory of this project.  There are two versions of the dashboard, as simplified version to get started quickly, and a more complex version that supports Qlik Server Side Extensions. For more information and how to use Server Side Extensions for Qlik Sense, visit here:
+from the root GitHub directory of this project. There are two versions of the dashboard, as simplified version to get started quickly, and a more complex version that supports Qlik Server Side Extensions. For more information and how to use Server Side Extensions for Qlik Sense, visit here:
 
 https://github.com/nabeel-oz/qlik-py-tools
 
 Upload to your Qlik Sense server, Qlik cloud (when the Snowflake driver
 is enabled), or Qlik Sense Desktop. Follow the instructions in the app
 to add your Snowflake credentials and update the GeoAnalytics connection
-or modify to use a public IP lookup service. 
+or modify to use a public IP lookup service.
 
 A demo version using the
 Qlik Partner Engineering account can be accessed
 [**here**](https://pe.qlik.com/sense/app/100104c2-3917-4f44-b1b3-677c92846d60/overview):
 
 ![](./media/qlik-snowflake-architecture.png)
-***About Qlik and the App:***
+**_About Qlik and the App:_**
 
 Qlik is the only major analytics vendor with an entire data integration and
 management suite powering the data from raw to ready across an
@@ -74,9 +74,9 @@ generated](./media/image4.jpeg)![A screenshot of a cell phone Description
 automatically
 generated](./media/image5.jpeg)
 
-The other element in the load script in the Qlik GeoAnalytics IP lookup.    
+The other element in the load script in the Qlik GeoAnalytics IP lookup.  
 Please note this is a licensed add-on to Qlik Sense and will not work without a license.  
-You can contact your Qlik representative for an evaluation license.    
+You can contact your Qlik representative for an evaluation license.
 
 Alternatively, you could use the external IP via api REST lookup solution as described in the load script…
 
@@ -88,10 +88,10 @@ City, State, Country, and Lat/Long values for each IP.
 
 **Table of Contents:**
 
-This is the basic introduction to the layout and structure of the app.   You can use the buttons under Table of Contents to navigate the app.
+This is the basic introduction to the layout and structure of the app. You can use the buttons under Table of Contents to navigate the app.
 
 > ![A screenshot of a cell phone Description automatically
-> generated](./media/image6.jpeg)
+generated](./media/image6.jpeg)
 
 **Usage Cost:**
 
@@ -103,7 +103,7 @@ comparison. Users can alter their cost per credit and storage costs
 based on their unique pricing models that may be applicable.
 
 > ![A screenshot of a social media post Description automatically
-> generated](./media/image7.jpeg)
+generated](./media/image7.jpeg)
 
 **Enterprise Credit Usage:**
 
@@ -111,7 +111,7 @@ This dashboard is based on consumption of pre-purchased credits vs
 usage. The Vizlib chart projects when purchased credits will run out.
 
 > ![A screenshot of a cell phone Description automatically
-> generated](./media/image8.jpeg)
+generated](./media/image8.jpeg)
 
 **Auditing / Security:**
 
@@ -121,16 +121,15 @@ investigation how users are accessing the system, version of drivers
 used, and when/how often users are accessing the system.
 
 > ![A close up of a map Description automatically
-> generated](./media/image9.jpeg)
+generated](./media/image9.jpeg)
 
 **Performance / Optimization:**
 
-This dashboard can be used to understand query performance, usage
 hotspots, query volumes vs runtime, errors, and dive deep into query
 details.
 
 > ![A screenshot of a computer Description automatically
-> generated](./media/image10.jpeg)
+generated](./media/image10.jpeg)
 
 **Storytelling:**
 
@@ -138,4 +137,8 @@ Using the story mode provides an example of how data can be used to
 answer questions and present them in a instructional method. Story mode can be accessed using the **Story** tab on the top of the screen.
 
 > ![A screenshot of a cell phone Description automatically
-> generated](./media/image11.jpeg)
+generated](./media/image11.jpeg)
+
+**Releases:**
+
+[Release notes for v1](./releases/v1/release_notes.md)
