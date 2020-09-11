@@ -1,5 +1,5 @@
 # Snowflake Usage and Metadata Dashboard:
-
+![](./media/snow_qlik2.png)
 
 ##Version 2 Updates:
 
