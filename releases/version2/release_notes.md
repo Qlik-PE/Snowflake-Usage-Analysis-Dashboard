@@ -1,7 +1,7 @@
 # Snowflake Usage and Metadata Dashboard:
 ![](./media/snow_qlik2.png)
 
-##Version 2 Updates:
+## Version 2 Updates:
 
 - Compute and Credit Costs hav been separated to show:
 \- Total Usage Credits and Billed Amount 
@@ -9,6 +9,7 @@
 \- Compute Service Credits and Billed Amount
 
 #### NEW FEATURES!
+
 - I modified the Qlik Script to allow the Snowflake Usage Dashboard to scan *multiple* Snowflake systems and show all in a single Qlik app.
 \- Many customers (including Qlik) have more than one instance, and would like to track spend across the entire Enterprise.
 \- A for/next loop has been added to the script to iterate through as many systems as a customer might have and tag each system inside the dashboard while allowing overall consumption analytics!
@@ -45,7 +46,7 @@ or modify to use a public IP lookup service.
 
 A demo version using the
 Qlik Partner Engineering account can be accessed
-[**here**](https://pe.qlik.com/sense/app/100104c2-3917-4f44-b1b3-677c92846d60/overview):
+[**PE Qlik Sense Link**](https://pe.qlik.com/sense/app/2f61c24f-8b28-4f5e-a1b2-3ef11a302af4/sheet/50c22bd9-554d-4746-bba4-1b3ae9e66984/state/analysis):
 
 ![](./media/qlik-snowflake-architecture.png)
 ***About Qlik and the App:***
