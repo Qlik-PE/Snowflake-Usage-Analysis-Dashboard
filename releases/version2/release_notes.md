@@ -4,16 +4,23 @@
 ## Version 2 Updates:
 
 - Compute and Credit Costs hav been separated to show:
+  
 \- Total Usage Credits and Billed Amount 
+
 \- Cloud Services Credits and Billed Amount
+
 \- Compute Service Credits and Billed Amount
 
 #### NEW FEATURES!
 
 - I modified the Qlik Script to allow the Snowflake Usage Dashboard to scan *multiple* Snowflake systems and show all in a single Qlik app.
+- 
 \- Many customers (including Qlik) have more than one instance, and would like to track spend across the entire Enterprise.
+
 \- A for/next loop has been added to the script to iterate through as many systems as a customer might have and tag each system inside the dashboard while allowing overall consumption analytics!
+
 \- Added incremental loads to Query History table to expedite loading/reloading
+
 \- In-App Documentation updated with better and cleaner explainations (Dalton Ruer)
 
 ![](./media/SUDV2.png)
