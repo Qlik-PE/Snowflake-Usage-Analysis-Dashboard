@@ -16,6 +16,5 @@ Instructions and descriptions are below. Here is a video showing the dashboard i
 
 
 ## Please open /releases folder for Dashboard Versions
-=======
-## Please open /releases folder for Dashboard Versions
+
 
