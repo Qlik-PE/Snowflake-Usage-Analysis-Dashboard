@@ -15,8 +15,7 @@ issues - how does this relate to cost and usage?
 Instructions and descriptions are below. Here is a video showing the dashboard in action: https://www.youtube.com/watch?v=4cNBdX9hufs
 
 
-<<<<<<< HEAD
-##Please open /releases folder for Dashboard Versions
+## Please open /releases folder for Dashboard Versions
 =======
-##Please open /releases folder for Dashboard Versions
->>>>>>> 30db75fd12579ca9c7164ae1c13f75851f76f270
+## Please open /releases folder for Dashboard Versions
+
