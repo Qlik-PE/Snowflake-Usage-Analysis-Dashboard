@@ -9,7 +9,7 @@ Link to the Qlik Sense Application (empty): [<u>Snowflake Usage V3.2)
 
 What’s new in Snowflake Dashboard (V3.2):
 
-This version is trimmed down on Query Test (left 100) to limit data, and removes around 40 unused columns. The 3.2 version is 50% smaller than the 3.1 version of the Usage Dashboard
+This version is trimmed down on Query Text (left 100) to limit data, and removes around 40 unused columns. The 3.2 version is 50% smaller than the 3.1 version of the Usage Dashboard
 
 What’s new in Snowflake Dashboard (V3):
 
