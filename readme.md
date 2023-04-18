@@ -9,7 +9,7 @@ Link to the Qlik Sense Application: [<u>Snowflake Usage V5
 
 What’s new in Snowflake Dashboard (V5):
 ***Video of the NEW Version 5 Dashboard in action: [<u>Video 
-.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/releases/SnowflakeUsageDashboard_V5/Snowflake_Usage_V5.0.qvf)
+.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/media/Version5ChangesAndConfiguration.mp4)
 
 What’s new in Snowflake Dashboard (V3.2):
 
