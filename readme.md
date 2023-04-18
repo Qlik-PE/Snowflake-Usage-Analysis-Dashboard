@@ -1,11 +1,11 @@
 **Snowflake Usage Dashboard (UPDATED V5)**
 
-<img src="releases/SnowflakeUsageDashboard_V5/Snowflake_EnterpriseAnalysis.png" style="width:6.5in;height:3.18542in" alt="Graphical user interface, application Description automatically generated" />
+<img src="media/Snowflake_EnterpriseAnalysis.png" style="width:6.5in;height:3.18542in" alt="Graphical user interface, application Description automatically generated" />
 
 **NEW!!! – Snowflake Usage Dashboard V5**
 
 Link to the Qlik Sense Application: [<u>Snowflake Usage V5)
-.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/releases/SnowflakeUsageDashboard_V5/Snowflake%20Usage%20V5.0.qvf)
+.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/releases/SnowflakeUsageDashboard_V5/Snowflake_Usage_V5.0.qvf)
 
 What’s new in Snowflake Dashboard (V5):
 
