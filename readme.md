@@ -1,6 +1,6 @@
 **Snowflake Usage Dashboard (UPDATED V5)**
 
-<img src="release/SnowflakeUsageDashboard_V5/Snowflake_EnterpriseAnalysis.png" style="width:6.5in;height:3.18542in" alt="Graphical user interface, application Description automatically generated" />
+<img src="releases/SnowflakeUsageDashboard_V5/Snowflake_EnterpriseAnalysis.png" style="width:6.5in;height:3.18542in" alt="Graphical user interface, application Description automatically generated" />
 
 **NEW!!! – Snowflake Usage Dashboard V5**
 
