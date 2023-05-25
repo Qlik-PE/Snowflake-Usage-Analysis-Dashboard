@@ -12,6 +12,16 @@ What’s new in Snowflake Dashboard (V5):
   
 Version 5 adds Query Performance Tracking - highlighting bad/poorly performing queries with visual query tracing!
 
+**NEW!!! – Snowflake Usage Dashboard V4**
+
+Link to the Qlik Sense Application: [<u>Snowflake Usage V4
+.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/releases/SnowflakeUsageDashboard_V5/Snowflake_Usage_V5.0.qvf)
+
+What’s new in Snowflake Dashboard (V5):
+**Video of the NEW Version 4 Dashboard in action:** [<u>-> Video Link <-</u>]((https://youtu.be/tVU78hXznVg)
+  
+Version 4 of the Qlik Snowflake Usage Dashboard is designed with the big implementations in mind. Incremental loads are used for the tables so that you can keep accumulating massive history without the cost/time of having to read it all live. All of the query history is retained and saved to QVD for use in a specific Query Analysis application, but only the aggregates are retained in the main application. Thus, allowing very nimble responses and yet providing an easy to link to the details when anyone wants to analyze them.
+
 What’s new in Snowflake Dashboard (V3.2):
 
 This version is trimmed down on Query Text (left 100) to limit data, and removes around 40 unused columns. The 3.2 version is 50% smaller than the 3.1 version of the Usage Dashboard
