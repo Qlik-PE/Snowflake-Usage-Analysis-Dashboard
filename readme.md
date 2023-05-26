@@ -15,7 +15,7 @@ Version 5 adds Query Performance Tracking - highlighting bad/poorly performing q
 **NEW!!! – Snowflake Usage Dashboard V4**
 
 Link to the Qlik Sense Application: [<u>Snowflake Usage V4
-.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/releases/SnowflakeUsageDashboard_V5/Snowflake_Usage_V5.0.qvf)
+.qvf</u>](https://github.com/Qlik-PE/Snowflake-Usage-Analysis-Dashboard/blob/master/releases/SnowflakeUsageDashboard_V4.zip)
 
 What’s new in Snowflake Dashboard (V5):
 **Video of the NEW Version 4 Dashboard in action:** [<u>-> Video Link <-</u>](https://youtu.be/tVU78hXznVg)
